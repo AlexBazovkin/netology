@@ -7,3 +7,4 @@
 * Низкая цена
 * Тестовая строка
 * One more test line
+* branch test
